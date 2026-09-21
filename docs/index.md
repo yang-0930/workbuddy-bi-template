@@ -15,6 +15,6 @@ features:
     details: 用业务步骤组织教程内容，尽量少用工程术语，先把结果做出来。
   - title: 免构建，双击即开
     details: 代码模板用 Vue3 浏览器编译模式，无需 Node.js 打包，做完双击 index.html 就能打开。
-  - title: 规则与技能预置
-    details: 模板内置 .codebuddy 规则约束与复用技能（含钉钉免登录），打包脚本开箱即用。
+  - title: 规则与脚本预置
+    details: 模板内置 .codebuddy 规则约束与打包脚本，开箱即用。
 ---

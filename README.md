@@ -2,6 +2,12 @@
 
 这是一个面向非技术人员的教程与模板仓库，用于演示如何基于 `WorkBuddy + Excel` 快速开发 BI 数据面板网页。
 
+## 在线预览
+
+点击查看在线文档站点（由 GitHub Pages 部署，push 到 `main` 分支后自动更新）：
+
+**https://yang-0930.github.io/workbuddy-bi-template/**
+
 ## VitePress 支持
 
 项目已接入 `VitePress`，文档站点入口位于 `docs/`。

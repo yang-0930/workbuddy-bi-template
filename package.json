@@ -1,0 +1,14 @@
+{
+  "name": "workbuddy-bi-template",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "docs:dev": "npm run zip:template && vitepress dev docs",
+    "docs:build": "npm run zip:template && vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "zip:template": "node scripts/zip-template.mjs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
